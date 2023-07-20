@@ -11,7 +11,7 @@ Banco de dados feito utilizando o MySQL sobre um sistema de E-commerce. Dentro d
 
 ## Modelo lógico
 
-![Modelo_Relacional](/Desafio_Database_Ecommerce/Diagrama_EER_Ecommerce.png)
+![Modelo_Relacional](/Diagrama_EER_Ecommerce.png)
 
 ## Modelo fisico
 
